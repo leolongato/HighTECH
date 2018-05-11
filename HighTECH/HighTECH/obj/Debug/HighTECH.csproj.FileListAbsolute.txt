@@ -1,0 +1,10 @@
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\bin\Debug\HighTECH.exe.config
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\bin\Debug\HighTECH.exe
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\bin\Debug\HighTECH.pdb
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.csprojResolveAssemblyReference.cache
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.frmPrincipal.resources
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.Properties.Resources.resources
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.csproj.GenerateResource.cache
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.csproj.CoreCompileInputs.cache
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.exe
+C:\Users\WazPC\Documents\Visual Studio 2017\Projects\HighTECH\HighTECH\obj\Debug\HighTECH.pdb
